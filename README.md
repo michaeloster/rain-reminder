@@ -10,7 +10,7 @@ Rain-Reminder
 A java web app that sends users SMS reports when rain is upcoming in their zip code. Uses the Darksky API and Twilio and requires setup of a mySQL database.
 
 
-Useage
+Usage
 ------
 In order to use this application, you must first assign all values in the config.proerties file. To do this you will need to sign up for a twilio account, darksky API access, and you'll need a webserver with a mySQL database and public url.
 
